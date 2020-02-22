@@ -1,0 +1,40 @@
+.login {
+  margin-top: 6%;
+  margin-left: 20%;
+}
+
+#input {
+  color: black;
+  font-size: 22px;
+  margin-top: 20px;
+}
+
+.user {
+  margin-left: 35%;
+}
+
+#user {
+  cursor: pointer;
+}
+
+.checkbox {
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
+
+#b {
+  font-size: 20px;
+}
+
+.del {
+  float: right;
+  cursor: pointer;
+  margin-left: 20px;
+}
+
+#foot {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}

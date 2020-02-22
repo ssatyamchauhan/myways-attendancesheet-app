@@ -1,0 +1,18 @@
+.list {
+  display: flex;
+  align-content: center;
+  justify-content: space-between;
+  height: 50px;
+  margin: 0 auto;
+  width: 80%;
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px 8px #888888;
+}
+
+.all-div {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    
+}
