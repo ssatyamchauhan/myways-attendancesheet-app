@@ -15,7 +15,7 @@ Your system is installed with nodejs, mongoose, reactjs.<br />
 Clone the project and run npm install in both the directories root as well as client directory.<br/>
 Make a new file name .env and enter the required credentials as mentioned in .env.example <br/>
 
-[App Demo](http://localhost:3000)<br/>
+[App Demo](https://attendancesheet.learnreact.ml/)<br/>
 
 Happy Coding!
 
